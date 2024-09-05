@@ -14,4 +14,4 @@ labels:
 
 ... Insert text here
 
-Image source: https://miro.medium.com/v2/resize:fit:1200/1*VTW6T-7KkQHPjf4mtfQ0Zg.png
+Image: https://miro.medium.com/v2/resize:fit:1200/1*VTW6T-7KkQHPjf4mtfQ0Zg.png
