@@ -10,7 +10,7 @@ labels:
   - Security
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/applewatch.jpg">
 
 The Apple Watch integrates hardware, software, and the user interface. The Watch connected to
 the user’s iPhone can be used for telephone calls, messages, directions, payments, fitness
@@ -77,4 +77,40 @@ applications, the passcode and settings, they can prevent those risks to a large
 created eight prior designs and will be releasing the Series 9 next September. I believe it will
 continue evolving more in the future to enhance security and privacy.
 
-Image: https://miro.medium.com/v2/resize:fit:1200/1*VTW6T-7KkQHPjf4mtfQ0Zg.png
+Image: https://miro.medium.com/v2/resize:fit:1200/1*VTW6T-7KkQHPjf4mtfQ0Zg.png](https://images-na.ssl-images-amazon.com/images/I/71RAk7Bn2ZL._AC_UL600_SR600,600_.jpg
+
+
+
+References
+
+1. Johnson, B. (2015, January 14). How the Apple Watch Works. HowStuffWorks. Retrieved
+
+October 31, 2022, from https://electronics.howstuffworks.com/gadgets/high-tech-
+gadgets/apple-watch.htm
+
+2. Apple Inc. (2022, May 13). System security for watchOS. Apple Platform Security. Retrieved
+
+October 31, 2022, from https://support.apple.com/guide/security/system-security-for-
+watchos-secc7d85209d/web
+
+3. Kelly, G. (2020, April 24). Learn about the Apple Watch privacy and security features.
+Common Sense Education. Retrieved October 31, 2022, from
+
+https://www.commonsense.org/education/articles/privacy-and-security-evaluation-of-the-
+apple-watch
+
+4. 42Gears Mobility Systems Pvt Ltd. (2019, May 27). Business uses of Apple Watches. 42Gears .
+
+Retrieved October 31, 2022, from https://www.42gears.com/blog/business-uses-of-apple-
+watches/
+
+5. SecureMac. (2022, January 14). 5 Apple Watch Security and Privacy Tips. SecureMac.
+
+Retrieved October 31, 2022, from https://www.securemac.com/news/5-apple-watch-
+security-and-privacy-tips
+
+6. Laricchia, F. (2022, April 29). Global Apple watch users/installed base 2015-2020. Statista.
+
+Retrieved October 31, 2022, from https://www.statista.com/statistics/1221051/apple-
+watch-users-worldwide/
+
