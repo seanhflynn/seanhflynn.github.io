@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/icloudpr/icloudPR.jpg
+image: img/icloudpr/icloudPRlogo.jpg
 title: "Effects of iCloud Private Relay on Internet Localization"
 date: 2023-05
 published: true
