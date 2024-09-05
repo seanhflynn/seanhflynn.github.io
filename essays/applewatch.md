@@ -19,7 +19,7 @@ Watch. The Watch features WiFi 802.11b/g, Bluetooth 4.0 and Near Field Communica
 (NFC) for communicating with iPhone. NFC enables the user to make payments in stores which
 use touch payment features. A certain device account number particularly made for each credit
 card is used instead of the user’s credit card numbers. A passcode is needed to use Apple Pay for
-payments. The Watch can obtain location information with the user’s iPhone GPS [1].
+payments. The Watch can obtain location information with the user’s iPhone GPS.
 
 Apple Watch can perform several of the same security checks that iOS and iPadOS can do such
 as performing a secure restart and software updates. Updating watchOS is important because it
@@ -31,17 +31,17 @@ passcode. The Watch can be used by being connected with only one iPhone at one t
 the Watch is not connected with an iPhone, iPhone will show directions about how to delete
 everything from the Watch. In order to connect the Watch with iPhone, the Watch shows a
 special image that can be captured with the iPhone camera. That image has an encoded secret for
-Bluetooth Low Energy (BLE) out-of-band pairing [2].
+Bluetooth Low Energy (BLE) out-of-band pairing.
 
 In the US, more parents are buying Apple Watch for their children. Parents can use it to track
 their child’s location with the watch’s cellular capabilities. Creating an Apple ID for their child is
 necessary to operate the Watch. After reviewing Apple’s parent privacy disclosure, parents need
-to input their child’s personal data [3].
+to input their child’s personal data.
 
 To support patients, healthcare systems are extensively using Watch applications such as activity
 trackers, heart rate monitors, calorie burns, and fall detection. Apple Watches are useful for
 medical staff to communicate with each other and quickly prepare for medical emergencies using
-real-time medical data of patients [4].
+real-time medical data of patients.
 
 One of the security goals for the Watch is to present users with accurate data by preventing
 hackers from modifying it. It is important for healthcare systems to know accurate medical data
@@ -65,7 +65,7 @@ responds to you. The Watch has a built-in rechargeable lithium-ion battery which
 While it is worn on the user’s wrist for a long time, it can collect and process the user’s private
 information. It is inconvenient that the Apple Watch is compatible with only iPhone. The use of
 third-party watch applications is allowed for the Watch through the App Store, but they could
-steal the user’s data [3].
+steal the user’s data.
 
 For the potential threats, the following defenses are considered. Users should update their
 applications regularly, disable applications to access to their personal information, and not allow
@@ -75,10 +75,10 @@ after someone tries to unlock it ten times. Users can turn off Location Services
 worried about its security. They can also use “fine-tune” location permissions so that they can
 give permission to only the applications they trust. Users can set the watch to hide the contents of
 their notifications until they tap on the alert or hide sensitive complications such as heart rate,
-appointments, and messages when their wrist is not raised [5].
+appointments, and messages when their wrist is not raised.
 
 Currently there are more than 100 million Watch users in the world. Since 2015 when it was first
-released, the number of users has been increasing rapidly. This proves its high reliability [6].
+released, the number of users has been increasing rapidly. This proves its high reliability.
 Even though there are possible threats and weaknesses, if the users are careful with the safety of
 applications, the passcode and settings, they can prevent those risks to a large degree. Apple has
 created eight prior designs and will be releasing the Series 9 next September. I believe it will
@@ -90,33 +90,33 @@ Image: https://miro.medium.com/v2/resize:fit:1200/1*VTW6T-7KkQHPjf4mtfQ0Zg.png](
 
 References
 
-1. Johnson, B. (2015, January 14). How the Apple Watch Works. HowStuffWorks. Retrieved
+Johnson, B. (2015, January 14). How the Apple Watch Works. HowStuffWorks. Retrieved
 
 October 31, 2022, from https://electronics.howstuffworks.com/gadgets/high-tech-
 gadgets/apple-watch.htm
 
-2. Apple Inc. (2022, May 13). System security for watchOS. Apple Platform Security. Retrieved
+Apple Inc. (2022, May 13). System security for watchOS. Apple Platform Security. Retrieved
 
 October 31, 2022, from https://support.apple.com/guide/security/system-security-for-
 watchos-secc7d85209d/web
 
-3. Kelly, G. (2020, April 24). Learn about the Apple Watch privacy and security features.
+Kelly, G. (2020, April 24). Learn about the Apple Watch privacy and security features.
 Common Sense Education. Retrieved October 31, 2022, from
 
 https://www.commonsense.org/education/articles/privacy-and-security-evaluation-of-the-
 apple-watch
 
-4. 42Gears Mobility Systems Pvt Ltd. (2019, May 27). Business uses of Apple Watches. 42Gears .
+42Gears Mobility Systems Pvt Ltd. (2019, May 27). Business uses of Apple Watches. 42Gears .
 
 Retrieved October 31, 2022, from https://www.42gears.com/blog/business-uses-of-apple-
 watches/
 
-5. SecureMac. (2022, January 14). 5 Apple Watch Security and Privacy Tips. SecureMac.
+SecureMac. (2022, January 14). 5 Apple Watch Security and Privacy Tips. SecureMac.
 
 Retrieved October 31, 2022, from https://www.securemac.com/news/5-apple-watch-
 security-and-privacy-tips
 
-6. Laricchia, F. (2022, April 29). Global Apple watch users/installed base 2015-2020. Statista.
+Laricchia, F. (2022, April 29). Global Apple watch users/installed base 2015-2020. Statista.
 
 Retrieved October 31, 2022, from https://www.statista.com/statistics/1221051/apple-
 watch-users-worldwide/
