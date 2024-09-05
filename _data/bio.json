@@ -13,7 +13,6 @@
       { "network": "linkedin", "username": "sean-hiroki-flynn", "url": "https://www.linkedin.com/in/sean-hiroki-flynn" },
       { "network": "twitter", "username": "seanhflynn", "url": "https://www.twitter.com/seanhflynn" },
       { "network": "instagram", "username": "seanhflynn", "url": "https://www.instagram.com/seanhflynn" }
-      { "network": "youtube", "username": "seanhflynn", "url: "https://www.youtube.com/@seanhflynn" }
     ]
   },
   "interests": [
@@ -29,7 +28,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows, "Ubuntu", "Git/GitHub", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "TI LaunchPad" ]
     }
   ],
   "education": [
