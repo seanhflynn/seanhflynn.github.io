@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/icloudpr/icloudPRlogo.jpg
+image: <img class="img-fluid" width = "200px" src="../img/icloudpr/icloudPRlogo.png">
 title: "Effects of iCloud Private Relay on Internet Localization"
 date: 2023-05
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "My Electrical Engineering Master's Project"
 ---
 
-<img class="img-fluid" src="../img/icloudpr/icloudPR.jpg">
+<img class="img-fluid" width = "300px" src="../img/icloudpr/icloudPR.jpg">
 
 iCloud Private Relay is included with an iCloud+ subscription. Apple offers 50GB for $0.99, 200GB for $2.99, and 2TB for $9.99. It is available on iOS 15, iPadOS 15, and macOS Monterey.
 Private Relay helps prevent networks and websites from collecting information about your browsing activity in Safari and it helps protect unencrypted app usage.
