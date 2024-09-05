@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/icloudPR.jpg
+image: img/icloudpr/icloudPR.jpg
 title: "Effects of iCloud Private Relay on Internet Localization"
 date: 2023-05
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "My Electrical Engineering Master's Project"
 ---
 
-<img class="img-fluid" src="../img/icloudPR.jpg">
+<img class="img-fluid" src="../img/icloudpr/icloudPR.jpg">
 
 iCloud Private Relay is included with an iCloud+ subscription. Apple offers 50GB for $0.99, 200GB for $2.99, and 2TB for $9.99. It is available on iOS 15, iPadOS 15, and macOS Monterey.
 Private Relay helps prevent networks and websites from collecting information about your browsing activity in Safari and it helps protect unencrypted app usage.
@@ -29,10 +29,24 @@ Private Relay provides a more private way to browse by separating this informati
 Your IP address and browsing activity are separated between two different relays.
 
   - 1st relay: knows IP address (not website information)
+    
+    <img class="img-fluid" src="../img/icloudpr/1strelay.png">
   - 2nd relay: knows where you are going (not your IP address)
+    
+    <img class="img-fluid" src="../img/icloudpr/2ndrelay.png">
 
 And assigns new Private Relay IP address that shows your general location.
 So, your identity cannot be combined with your browsing activity. Your privacy is protected.
+
+
+
+
+< Without Private Relay >
+<img class="img-fluid" src="../img/icloudpr/withoutPR.png"> 
+
+
+< With Private Relay and Cloudflare >
+<img class="img-fluid" src="../img/icloudpr/withPR.png"> 
 
 By adding two "relays", connection metadata is split:
 The user’s original IP address is visible to the access network (e.g. the coffee shop you’re sitting in, or your home ISP) and the first relay (operated by Apple), but the server or website name is encrypted and not visible to either. The first relay gives the encrypted data to a second relay (for example, Cloudflare), but it can’t see “inside” the traffic to Cloudflare.
