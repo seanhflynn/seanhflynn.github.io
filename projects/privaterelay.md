@@ -62,7 +62,3 @@ So, how do you turn it on??
 Open the Settings app on your Apple device. Tap on your name. Tap iCloud. Tap Private Relay. Tap the switch to turn it on.
 In Safari, Private Relay is designed to be always on and completely transparent, protecting your browsing without any visible difference. 
 You can now browse the web with Safari with more privacy and security.
-
-
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
