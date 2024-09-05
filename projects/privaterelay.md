@@ -13,7 +13,7 @@ labels:
 summary: "My Electrical Engineering Master's Project"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/icloudPR.jpg">
 
 iCloud Private Relay is included with an iCloud+ subscription. Apple offers 50GB for $0.99, 200GB for $2.99, and 2TB for $9.99. It is available on iOS 15, iPadOS 15, and macOS Monterey.
 Private Relay helps prevent networks and websites from collecting information about your browsing activity in Safari and it helps protect unencrypted app usage.
