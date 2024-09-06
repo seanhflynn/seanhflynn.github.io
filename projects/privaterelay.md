@@ -21,6 +21,7 @@ Relay (PR) utilizes a multi-party relay structure to enhance security and reduce
 
 Internet Protocol (IP) geolocation is fundamental to how the internet functions today. PR adversely affects the capability of IP geolocation services to accurately determine the physical location of clients. This study examines the accuracy of IP geolocation services with regard to PR by comparing their location data with Apple’s data and analyzing the errors globally and by country for IPv4 and IPv6 addresses. Our analysis of geolocation data for eight selected countries shows that the median error for IP geolocation services can differ by up to 1,000 miles for IPv4 addresses. In fact in some cases, services geolocate IPs to entirely different countries. This work highlights the potential downfalls of privacy-preserving infrastructure based on masking user IP addresses using public cloud infrastructure.
 
+<img class="img-fluid" src="../img/icloudpr/prarchitecture.png">
 
 PR aims to ensure the privacy of its users by routing their internet traffic through an ingress and an egress node. This system makes it difficult for eavesdroppers such as Internet service providers (ISPs) to see which
 servers the user is communicating with. PR is much easier to access than other privacy protection methods such as VPNs, Proxies, and Tor. The use of PR is available to all Apple device users who have a subscription to
@@ -50,6 +51,9 @@ the geolocated coordinates from each service, allowing us to reason about how we
 them to appear. 
 
 *Limitations.* Our study is necessarily limited to the IP geolocation services that we have selected. Certainly, other geolocation services may perform better or worse compared with those studied. As this study is meant to shine an initial light on potential web localization issues that could arise from privacy-preserving system architectures, we leave in-depth, service-by-service exploration for future work.
+
+<img class="img-fluid" src="../img/icloudpr/fig3to10.png">
+<img class="img-fluid" src="../img/icloudpr/fig11to18.png">
 
 We evaluated the accuracy of geolocation data for both IPv4 and IPv6 in eight chosen countries: Australia (AU), Bangladesh (BD), China (CN), France (FR), Germany (DE), Japan (JP), South Africa (ZA), and the United
 States (US). The graphs (Figures 3-18) display the results for both IPv4 and IPv6 of each country. The jagged lines are due to the limited number of data points and IP addresses, while the smoother lines result from a
