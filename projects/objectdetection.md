@@ -10,7 +10,7 @@ labels:
   - Object Detection
   - Adversarial Patch Attacks
   - Deep-Learning Neural Networks
-summary: "My Electrical Engineering Master's Project"
+summary: "Project for EE693F Privacy and Security in the Modern Internet"
 ---
 
 # Abtract
