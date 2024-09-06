@@ -13,8 +13,6 @@ labels:
 summary: "My Electrical Engineering Master's Project"
 ---
 
-<img class="img-fluid" width = "200px" src="../img/icloudpr/icloudPRlogo.png">
-
 # Abtract
 Object detection is a computer vision method to classify and locate objects in an image. Object detection methods can be divided into machine learning methods and deep learning methods. 
 Object detection models are based on Deep-learning neural networks (DNNs) which are excellent for identifying the differences by using shapes and color, but DNNs are vulnerable to adversarial attacks such as
@@ -40,6 +38,8 @@ per second. A faster version of the YOLO model can run at 155 frames per sec. Th
 YOLOv3 was the model used to implement object detection. The model was implemented in python3 using OpenCV for image capture. The model was pre-trained using the Common Objects in Context (COCO) dataset. The model can accept images or videos to process and output the respective media with bounding boxes with the name of the object and the confidence value over objects. The focus of this project revolved around detecting stop signs through APAs.
 Two models, YOLOv3 and YOLOv3-Tiny, were used to detect stop signs with APAs. The difference between YOLOv3 and YOLOv3- Tiny is that YOLOv3-Tiny trades off accuracy for speed. Both models
 were trained with the COCO dataset. The YOLOv3 model could detect stop signs even when objects obstruct the sign. One of the images sent through the model has an APA appended to it, the model was able to detect the stop sign, but it also detected people when the image did not have people in it. On an M1 Macbook Air, while plugged in, the YOLOv3 model computes each frame an average of 0.35 seconds, giving around two frames per second or two fps. There are multiple versions of YOLOv3 that were tested. With YOLOv3-Tiny, real-time detection is possible. Using the same laptop configuration, the YOLOv3-Tiny model processes about 0.035 seconds per frame or around 27.2 fps.
+
+<img class="img-fluid" src="../img/attackmodel.png">
 
 # Attack Model
 To evaluate how vulnerable YOLOv3 and YOLOv3-Tiny are against adversarial patch attacks, we applied diverse patches onto the stop sign. We created different stop signs with rectangular patches using white, red and black colors. Based on the variety of attacks, patches covering up most of the letters tend to deceive the OD models. However, more than covering the letters is needed to trick the models fully. When the stop sign is perfectly flat in the image, covering up the letters was not able to trick YOLOv3, but it was able to trick YOLOv3-Tiny (4b); when attacks are applied to stop signs that were at an angle, that is when the OD models struggle to detect the stop sign. In (1c) and (4c), the letters “STOP” are clearly visible but neither model could detect the stop sign. In (3c), YOLOv3 detected the stop sign as a traffic light (89%). I assume it misidentified the stop sign as a 4-color traffic light. It is interesting that YOLOv3 detected two stop signs in (3b). The larger box was 97%, and the smaller box was 50%. Two signs were detected in (3b) with two lines, but in (6b) with three lines only one stop sign was detected.
