@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/icloudpr/icloudPR.jpg
+image: img/objectdetection.jpg
 title: "Attacks on YOLOv3 Object Detection Model for Detecting Stop Signs"
 date: 2022-11-23
 published: true
