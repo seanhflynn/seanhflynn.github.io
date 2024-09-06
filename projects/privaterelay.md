@@ -14,6 +14,8 @@ summary: "My Electrical Engineering Master's Project"
 ---
 
 <img class="img-fluid" src="../img/icloudpr/egresslocations.png">
+< Advertised Apple iCloud Private Relay egress locations (red) >
+
 
 Online activities leave behind traces that can violate privacy. Existing systems like Transport Layer Security (TLS) and Virtual Private Networks (VPNs) have limitations in protecting user privacy, and anonymity
 networks that use the Decoupling Principle can also face privacy concerns due to potential attacks like traffic analysis. Modern systems aim to achieve privacy while maintaining performance. Apple’s iCloud Private
