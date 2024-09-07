@@ -22,8 +22,6 @@
     { "name": "Data Science" },
     { "name": "UI/UX Design" },
     { "name": "Video Editing" },
-    { "name": "Golf" },
-    { "name": "Japanese Language & Culture" },
     { "name": "Apple digital ecosystem" }
   ],
   "skills": [
@@ -119,6 +117,17 @@
       "highlights": [
         "Delivered food and other supplies from loading van to the building",
         "Helped serve food to 200 homeless people"
+      ]
+    },
+    {
+      "organization": "Hawaii Baptist Academy",
+      "website": "",
+      "position": "Varsity 1 Golf",
+      "startDate": "2011",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [
+        "Competed in Interscholastic League of Honolulu Golf Tournaments",
       ]
     }
   ],
