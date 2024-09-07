@@ -34,6 +34,10 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "MacOS", "iOS", "Windows", "Ubuntu", "Git/GitHub", "Visual Studio Code" ]
+    },
+    {
+      "name": "Certifications",
+      "keywords": [ "Python for Everybody - University of Michigan via Coursera", "Japanese Language Proficiency Test - Level N3" ]
     }
   ],
   "education": [
