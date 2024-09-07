@@ -47,8 +47,8 @@ To evaluate how vulnerable YOLOv3 and YOLOv3-Tiny are against adversarial patch 
 # Defense
 A potential defense against these shape attacks is applying another layer of object recognition and color detection. Our target is a stop sign with an octagon shape and red with white text. The attacks applied consisted of blocking out the white text on the stop sign; if the background is masked out, the shape of the sign can easily be recognized. Another layer is to add color recognition to the object recognition. If the masked shape has a grouping of red pixels, a red-shaped octagon is highly likely to be a stop sign. With this approach, the text of the stop sign is not considered.
 
-<img class="img-fluid" width = "500px" src="../img/bothdetected.png"> <img class="img-fluid" width = "500px" src="../img/v3yesv3tinyno.png"> 
-<img class="img-fluid" width = "500px" src="../img/neitherdetected.png">
+<img class="img-fluid" width = "400px" src="../img/bothdetected.png"> <img class="img-fluid" width = "400px" src="../img/v3yesv3tinyno.png"> 
+<img class="img-fluid" width = "400px" src="../img/neitherdetected.png">
 
 # Conclusion
 We compared two object detection models, YOLOv3 and YOLOv3-Tiny, against stop signs. Comparing a set of attacks on the two models shows what attacks work best. The attacks we used consisted of obscuring the letters on the stop sign with lines, pluses, and crosses across the stop sign and applying the same attacks to stop signs taken at two different angles. We found that obscuring the letters with stripes with an angled stop sign was the best type of attack in our test cases. When the attacks were applied to a stop sign normal to the image, YOLOv3 was able to detect the sign through all of the attacks.
