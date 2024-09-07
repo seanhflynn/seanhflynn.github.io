@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "My First Encounter with TypeScript"
+title: "Background"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
 published: true
 labels:
-  - TypeScript
-  - Programming
+  - Software Engineering
+  - Background
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/typescript.png">
