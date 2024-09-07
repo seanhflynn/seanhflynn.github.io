@@ -32,7 +32,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "iOS", "Windows", "Ubuntu", "Git/GitHub" ]
+      "keywords": [ "MacOS", "iOS", "Windows", "Ubuntu", "Git/GitHub", "Visual Studio Code" ]
     }
   ],
   "education": [
