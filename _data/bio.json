@@ -17,13 +17,14 @@
     ]
   },
   "interests": [
-    { "name": "Machine Learning" },
     { "name": "Artificial Intelligence" },
+    { "name": "Machine Learning" },
     { "name": "Data Science" },
     { "name": "UI/UX Design" },
+    { "name": "Video Editing" },
     { "name": "Golf" },
     { "name": "Japanese Language & Culture" },
-    { "name": "Apple ecosystem" }
+    { "name": "Apple digital ecosystem" }
   ],
   "skills": [
     {
