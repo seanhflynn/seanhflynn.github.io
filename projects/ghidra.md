@@ -12,7 +12,7 @@ labels:
 summary: "Project for EE609 Computer and Network Security"
 ---
 
-<img class="img-fluid" src="../img/ghidra.png">
+<img class="img-fluid" width = "700px" src="../img/ghidra.png">
 
 ## Introduction
 
