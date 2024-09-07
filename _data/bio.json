@@ -7,7 +7,7 @@
     "phone": "808-308-6669",
     "website": "https://seanhflynn.github.io",
     "summary": "I am studying towards a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I have earned a Bachelor's (2021) and Master's Degree (2023) in Electrical Engineering. ",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "seanhflynn", "url": "https://github.com/seanhflynn" },
       { "network": "linkedin", "username": "sean-hiroki-flynn", "url": "https://www.linkedin.com/in/sean-hiroki-flynn" },
@@ -32,85 +32,117 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "iOS", "Windows", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2024-06-01",
+      "startDate": "2024",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Electrical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2022",
+      "endDate": "2023",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa",
+      "area": "Electrical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2017",
+      "endDate": "2021",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "InSynergy Engineering",
+      "position": "Electrical Engineer",
+      "website": "www.insynergyeng.com",
+      "startDate": "Jun 2023",
+      "endDate": "Dec 2023",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Worked on projects using architectural software such as AutoCAD, Revit, and AGi32 to create electrical layouts of apartments and military buildings",
+        "Collaborated with senior engineers and contractors to understand project requirements",
+        "Visited active construction sites to monitor the progress of ongoing projects"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Hawaii Creators",
+      "position": "Digital Creator",
+      "website": "www.hawaiicreators.co",
+      "startDate": "2024",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked on projects using architectural software such as AutoCAD, Revit, and AGi32 to create electrical layouts of apartments and military buildings",
+        "Collaborated with senior engineers and contractors to understand project requirements",
+        "Visited active construction sites to monitor the progress of ongoing projects"
+      ]
+    },
+    {
+      "company": "Tomodachi-USA",
+      "position": "Online English Instructor & Video Editor",
+      "website": "www.tomodachi-usa.com",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Teaching English to Japanese people online",
+        "Making listening videos for practicing English"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "River of Life Mission",
+      "website": "",
+      "position": "Student Volunteer",
+      "startDate": "Sept 2016",
+      "endDate": "Sept 2016",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Delivered food and other supplies from loading van to the building",
+        "Helped serve food to 200 homeless people"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "Dec 2020",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Coaches Award",
+      "date": "May 2017",
+      "awarder": "Hawaii Baptist Academy",
+      "summary": ""
     }
   ],
   "references": [
