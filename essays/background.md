@@ -10,7 +10,7 @@ labels:
   - Background
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/EE.png">
 
 As someone who was always interested in computers and technology, I decided to major in Computer Engineering upon arriving at UH Manoa in 2017. However, after taking my first course in C (EE160), I did not enjoy any part of programming nor did I understand any of it at that time. I talked with my advisor, and he asked me several times if I was sure. I thought it was a good choice, so I made the switch to Electrical Engineering.
 
