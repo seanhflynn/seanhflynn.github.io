@@ -9,6 +9,7 @@ labels:
   - Smart Questions
   - Stack Overflow
 ---
+<img width = "400px" class="rounded float-start pe-4" src="../img/best-open-ended-questions.png">
 
 ## Introduction 
 
