@@ -1,31 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smart Questions, and the Not-So-Smart Ones"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-12
-published: false
+published: true
 labels:
   - Smart Questions
   - Stack Overflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+Learning how to communicate with each other is one of the most important skills to develop. We are always encouraged by our professors to ask questions, whether they’re smart or not so smart. Stack Overflow is a popular online forum where software engineers can ask and answer questions. I set out to find out why smart questions tend to do better than the not so smart ones.
 
-## Is there such thing as a stupid question?
+During my Electrical Engineering Master’s Project, I was working with several IP locations and needed to find a way to plot them in Python. With Stack Overflow, I was able to complete the project in a timely manner. When the [post](https://stackoverflow.com/questions/10339351/how-can-i-geolocate-a-bunch-of-ip-addresses-with-python) has a good title with detailed descriptions, the reader is able to find answers quickly and be satisfied.
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+On the other hand, we will see how a “not-so-smart” question doesn’t perform that well. The user writes a very brief description of their [homework assignment](https://stackoverflow.com/questions/75023213/barcode-generator-homework), a small portion of their code, an input and output, and expects the rest of us to know what he wants to help on. As a result, this post got a downvote and only a few answers. This is a great example demonstrating that if you ask “not-so-smart” questions, you won’t be happy with the engagement you receive from others and not as productive.
 
-Use this format for links:
-[Google](https://www.google.com)
-
-
-## What’s a smart question?
-
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+This is why it is crucial to be clear and provide as much detail as you can about your problem. Smart questions spark meaningful conversations with people, allowing everyone to learn something from each other.
