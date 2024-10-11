@@ -11,7 +11,8 @@ labels:
   - HTML
   - CSS
 ---
-<img width = "300px" class="rounded float-start pe-4" src="../img/bootstrap-5.png">
+<img width = "500px" class="rounded float-start pe-4" src="../img/browserhistory1.png"> <img width = "500px" class="rounded float-start pe-4" src="../img/browserhistory.png"> 
+
 
 ## Introduction
 
