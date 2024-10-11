@@ -11,17 +11,31 @@ labels:
   - HTML
   - CSS
 ---
-<img width = "400px" class="rounded float-start pe-4" src="../img/best-open-ended-questions.png">
+<img width = "300px" class="rounded float-start pe-4" src="../img/bootstrap-5.png">
 
-## Introduction 
+## Bootstrap 5: Worth it?
 
-Learning how to communicate with each other is one of the most important skills to develop. We are always encouraged by our professors to ask questions, whether they’re smart or not so smart. Stack Overflow is a popular online forum where software engineers can ask and answer questions. I set out to find out why smart questions tend to do better than the not-so-smart ones.
+Web development is constantly evolving. It comes with a variety of tools, libraries, and frameworks designed to help the process. Bootstrap 5 has become one of the most popular frameworks for developers. However, learning a new UI framework can feel like picking up a whole new programming language. Why not stick with HTML and CSS?
 
-## Smart Questions
-During my Electrical Engineering Master’s Project, I was working with several IP locations and needed to find a way to plot them in Python. With Stack Overflow, I was able to complete the project in a timely manner. When the post has a good title (["How can I geolocate a bunch of IP addresses with Python?"](https://stackoverflow.com/questions/10339351/how-can-i-geolocate-a-bunch-of-ip-addresses-with-python)) with detailed descriptions, the reader is able to find answers quickly and be satisfied.
+## Efficiency
 
-## Not-so-Smart Questions
+One of the benefits of using Bootstrap 5 is the amount of time you can save. HTML and CSS are great, but they can be very time-consuming. Bootstrap 5 provides a grid system, pre-built components, and a set of classes.
 
-On the other hand, we will see how a “not-so-smart” question doesn’t perform that well. The user writes a very brief description of their [homework assignment](https://stackoverflow.com/questions/75023213/barcode-generator-homework), a small portion of their code, an input and output, and expects the rest of us to know what he wants to help on. As a result, this post got a downvote and only a few answers. This is a great example demonstrating that if you ask “not-so-smart” questions, you won’t be happy with the engagement you receive from others and not be as productive.
+In my own experience, the framework allowed me to remake a website (shown above) that ended up being very close to the actual website. I would imagine that I probably could not have even come close to creating that without Bootstrap 5. 
 
-This is why it is crucial to be clear and provide as much detail as you can about your problem. Smart questions spark meaningful conversations with people, allowing everyone to learn something from each other.
+## Browser Compatibility 
+
+Another reason to use an UI framework is the browser compatibility. HTML and CSS look slightly different on different browsers, which can lead to inconsistencies. On the other hand, Bootstrap 5 ensures that all elements on the website will look the same, which means you don’t have to spend extra time adjusting the CSS for each browser.
+
+## The Learning Curve
+
+Yes, understanding how to use Bootstrap is hard at first. There’s a lot of terminology to learn. But, once you get the basic structure (head, navigation bar, body, and footer), it is not too difficult and you’ll notice right away how much nicer the website looks.
+
+## Wrapping it up
+
+While basic HTML and CSS can be used in web development, the modern developer who demands high-quality, responsive websites will benefit greatly from learning a UI framework. I can say from experience that it is absolutely worth it. After using Bootstrap, I wouldn’t want to return back to HTML. It looks very outdated and plain. I highly recommend that any Computer Science student take some time to learn this framework.
+
+ 
+
+
+
