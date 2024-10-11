@@ -22,7 +22,7 @@ Web development is constantly evolving. It comes with a variety of tools, librar
 
 One of the benefits of using Bootstrap 5 is the amount of time you can save. HTML and CSS are great, but they can be very time-consuming. Bootstrap 5 provides a grid system, pre-built components, and a set of classes.
 
-<img class="rounded fixed pe-4" src="../img/titleist.png">
+<img width="1000px" class="rounded fixed pe-4" src="../img/titleist.png">
 
 In my own experience, the framework allowed me to remake a website (shown above) that ended up being very close to the actual website. I would imagine that I probably could not have even come close to creating that without Bootstrap 5. 
 
