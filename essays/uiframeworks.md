@@ -4,7 +4,7 @@ type: essay
 title: ""
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
-published: false
+published: true
 labels:
   - UI Frameworks
   - Bootstrap 5
@@ -16,6 +16,9 @@ labels:
 ## Bootstrap 5: Worth it?
 
 Web development is constantly evolving. It comes with a variety of tools, libraries, and frameworks designed to help the process. Bootstrap 5 has become one of the most popular frameworks for developers. However, learning a new UI framework can feel like picking up a whole new programming language. Why not stick with HTML and CSS?
+
+<img width = "500px" class="rounded float-start pe-4" src="../img/browserhistory1.png"> <img width = "500px" class="rounded float-start pe-4" src="../img/BrowserHistory-Bootstrap5.png">
+
 
 ## Efficiency
 
