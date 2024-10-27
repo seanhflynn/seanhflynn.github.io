@@ -17,9 +17,10 @@
     ]
   },
   "interests": [
-    { "name": "Artificial Intelligence" },
-    { "name": "Machine Learning" },
+    { "name": "Generative AI" },
     { "name": "Data Science" },
+    { "name": "Human-Computer Interaction" },
+    { "name": "Natural Language Processing" },
     { "name": "UI/UX Design" },
     { "name": "Video Editing" }
   ],
