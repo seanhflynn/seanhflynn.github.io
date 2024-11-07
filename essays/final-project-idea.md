@@ -36,13 +36,13 @@ Users can also set notifications to get alerts for activities they’re interest
 
 ## Use Case Ideas
 
-Creating an Activity: A user logs in, goes to the Activity Post Page, and creates a post for a Saturday morning hike, adding relevant tags and details.
-Finding a Partner for Surfing: A user logs in, goes to the Browse Activities page, filters for “surfing” on “Sunday,” and finds a post by another user looking for a surfing buddy.
-Joining an Activity: The user clicks on an activity they’re interested in, checks out the other users who’ve RSVP’d, and clicks to join or message the organizer.
-Hosting Regular Events: A user who often organizes volleyball games can set up a recurring event, allowing others to easily RSVP each week.
+- Creating an Activity: A user logs in, goes to the Activity Post Page, and creates a post for a Saturday morning hike, adding relevant tags and details.
+- Finding a Partner for Surfing: A user logs in, goes to the Browse Activities page, filters for “surfing” on “Sunday,” and finds a post by another user looking for a surfing buddy.
+- Joining an Activity: The user clicks on an activity they’re interested in, checks out the other users who’ve RSVP’d, and clicks to join or message the organizer.
+- Hosting Regular Events: A user who often organizes volleyball games can set up a recurring event, allowing others to easily RSVP each week.
 
 ## Beyond the Basics
 
-Group Chats: Once a user joins an activity, they could be added to a temporary group chat with other participants, making it easier to coordinate.
-Buddy Matches: For users who have overlapping schedules and interests, suggest potential buddies based on their activity history.
-Leaderboard and Rewards: Users earn points for posting or joining activities, which could be redeemed for small rewards or badges to incentivize engagement.
+- Group Chats: Once a user joins an activity, they could be added to a temporary group chat with other participants, making it easier to coordinate.
+- Buddy Matches: For users who have overlapping schedules and interests, suggest potential buddies based on their activity history.
+- Leaderboard and Rewards: Users earn points for posting or joining activities, which could be redeemed for small rewards or badges to incentivize engagement.
