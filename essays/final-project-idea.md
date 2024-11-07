@@ -10,6 +10,7 @@ labels:
 ---
 
 ## Project: Weekend Warrior
+Authors: Sean Flynn, Min Jun Han, Mhar Olipani, and Nigel Arias
 
 ## Overview
 
@@ -22,10 +23,6 @@ The Solution: Weekend Warrior is a platform that allows users to post their upco
 Once a user sets up a profile, they can post their weekend or upcoming activity plans, tagging it with details like location, time, and activity type (ex. hiking, beach volleyball, surfing, study group, etc). Others can then browse or search these posts to find activities they’d like to join, filtering by location, activity type, and schedule.
 
 Users can also set notifications to get alerts for activities they’re interested in or when new plans are posted by specific people they’ve connected with before. Admins can monitor content, ensure the safety of the app, and add new categories for activities as they grow in popularity.
-
-## Names of the Proposers
-
-Insert names here.
 
 ## Mockup Page Ideas
 
