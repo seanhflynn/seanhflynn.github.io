@@ -18,7 +18,7 @@ The Problem: Many UH Manoa students and locals have a hard time finding people w
 The Solution: Weekend Warrior is a platform that allows users to post their upcoming weekend plans or desired activities and connect with others interested in joining. This app would serve as a local meetup spot for casual, activity-based connections, making it easier to find activity buddies and plan for fun weekends.
 
 ## Names of the proposers
-Sean Flynn, Min Jun Han, Joshua Omori, Mhar Olipani, and Nigel Arias
+Sean Flynn, Min Jun Han, Mhar Olipani, Nigel Arias
 
 ## Approach
 
