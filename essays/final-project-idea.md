@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 date: 2024-11-06
-published: false
+published: true
 labels:
   - Software Engineering
   - Nextjs
