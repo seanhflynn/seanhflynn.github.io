@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Project: Weekend Warrior
-Authors: Sean Flynn, Min Jun Han, Mhar Olipani, and Nigel Arias
+Authors: Sean Flynn, Min Jun Han, Joshua Omori, Mhar Olipani, and Nigel Arias
 
 ## Overview
 
