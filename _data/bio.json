@@ -18,9 +18,9 @@
   },
   "interests": [
     { "name": "Generative AI" },
+    { "name": "Computational Photography" },
     { "name": "Data Science" },
-    { "name": "Human-Computer Interaction" },
-    { "name": "Natural Language Processing" },
+    { "name": "Computer Vision" },
     { "name": "UI/UX Design" },
     { "name": "Video Editing" }
   ],
