@@ -21,9 +21,11 @@ A design pattern is a general, reusable solution of how to solve a common proble
 
 There are several different types of design patterns:
 
-<img width="500px" class="rounded fixed pe-4" src="../img/designpatterns.png">
+<img width="300px" class="rounded fixed pe-4" src="../img/designpatterns.png">
 
 ## Seeing it in Action
+
+<img width = "1000px" class="rounded float-start pe-4" src="../img/activities.png">
 
 Weekend Warrior is the website our team made for the final project for my Software Development class. It was designed for fellow college students and locals to easily find similar interests and activities for the weekend. 
 
