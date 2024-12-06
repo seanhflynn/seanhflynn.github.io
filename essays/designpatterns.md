@@ -31,7 +31,7 @@ There are several different types of design patterns: Creational, Structural, an
 
 <img width="100%" style="display: block; margin-bottom: 20px;" src="../img/activities.png" alt="Activities">
 
-Weekend Warrior is the website our team made for the final project for my Software Development class. It was designed for fellow college students and locals to easily find similar interests and activities for the weekend. 
+Weekend Warrior is the website our team made for the final project for my Software Engineering class. It was designed for fellow college students and locals to easily find similar interests and activities for the weekend. 
 
 #### Singleton Pattern:
 The Singleton pattern acts as the application’s database, making sure there’s only one source of data collection. When someone registers for an account or activity, their information gets inputted into the database. Having multiple databases is not reasonable in this situation. We wouldn't want to have a database for each user.  
