@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Exploring Design Patterns in Real-World Applications"
+title: "Design Patterns in Real-World Applications"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-5
 published: true
