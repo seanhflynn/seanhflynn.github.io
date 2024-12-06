@@ -11,7 +11,7 @@ labels:
   - Web Development
 ---
 
-<img width = "400px" class="rounded float-start pe-4" src="../img/citydesign.png">
+<img width = "1000px" class="rounded float-start pe-4" src="../img/citydesign.png">
 
 Imagine you’re in charge of designing a city. At first glance, everything is a mess. Then, as the city grows, patterns start to appear - street grids, park layouts, and large buildings. This is where design patterns come into play.
 
