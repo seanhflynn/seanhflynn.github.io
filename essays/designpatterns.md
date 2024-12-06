@@ -11,13 +11,14 @@ labels:
   - Web Development
 ---
 
-<img width = "1000px" class="rounded float-start pe-4" src="../img/citydesign.png">
+<img width = "400px" class="rounded float-start pe-4" src="../img/citydesign.png">
 
 Imagine you’re in charge of designing a city. At first glance, everything is a mess. Then, as the city grows, patterns start to appear - street grids, park layouts, and large buildings. This is where design patterns come into play.
 
 ## What are design patterns?
 
 A design pattern is a general, reusable solution of how to solve a common problem when you’re designing an application. They are like blueprints for building things. They save time because someone already figured out the best way to solve the problem - we simply use them in our own project.
+
 
 There are several different types of design patterns:
 
