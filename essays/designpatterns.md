@@ -32,7 +32,7 @@ Source: https://www.scaler.com/topics/images/design-pattern-in-software-engineer
 
 ## Seeing it in Action
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/activities.png">
+<img width="100%" style="display: block; margin-bottom: 20px;" src="../img/activities.png" alt="Activities">
 
 Weekend Warrior is the website our team made for the final project for my Software Development class. It was designed for fellow college students and locals to easily find similar interests and activities for the weekend. 
 
