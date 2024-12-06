@@ -21,7 +21,7 @@ A design pattern is a general, reusable solution of how to solve a common proble
 
 There are several different types of design patterns:
 
-<img width="300px" class="rounded fixed pe-4" src="../img/designpatterns.png">
+<img width="1000px" class="rounded fixed pe-4" src="../img/designpatterns.png">
 
 ## Seeing it in Action
 
