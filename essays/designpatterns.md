@@ -33,10 +33,10 @@ There are several different types of design patterns: Creational, Structural, an
 
 Weekend Warrior is the website our team made for the final project for my Software Development class. It was designed for fellow college students and locals to easily find similar interests and activities for the weekend. 
 
-#### Singleton:
+#### Singleton Pattern:
 The Singleton pattern acts as the application’s database, making sure there’s only one source of data collection. When someone registers for an account or activity, their information gets inputted into the database. Having multiple databases is not reasonable in this situation. We wouldn't want to have a database for each user.  
 
-#### Observer:
+#### Observer Pattern:
 When a user clicks on the “sign up” button, the selected activity gets updated and shows the number of users who are registered for that given activity. 
 
 ## Conclusion
