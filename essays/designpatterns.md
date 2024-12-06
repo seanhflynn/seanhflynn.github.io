@@ -24,7 +24,9 @@ A design pattern is a general, reusable solution of how to solve a common proble
 
 There are several different types of design patterns: Creational, Structural, and Behavioral.
 
-<img width="400px" class="rounded fixed pe-4" src="../img/designpatterns.png">
+<div style="text-align: center;">
+    <img width="400px" class="rounded fixed pe-4" src="../img/designpatterns.png">
+</div>
 
 Source: https://www.scaler.com/topics/images/design-pattern-in-software-engineering_thumbnail.webp
 
