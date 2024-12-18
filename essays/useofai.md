@@ -20,46 +20,46 @@ The recent development of Generative AI is truly remarkable. I can remember the 
 ## II. Personal Experience with AI:
 In this section, I will talk about my personal experiences with AI technologies within ICS 314 (Software Engineering).
 
-1. Experience WODs e.g. E18
+##### 1. Experience WODs e.g. E18
 For the Experience WODs, I mostly used the provided video tutorial. If I had any trouble, I would ask Google or put my question on the class Discord.
 
-2. In-class Practice WODs
+##### 2. In-class Practice WODs
 These were practice for the graded WODs, so I did not use AI. I asked my table mates if I ran into any problems.
 
-3. In-class WODs
+##### 3. In-class WODs
 Because these were timed, I felt a lot of pressure to get the correct answer. Instead of using AI and explaining the entire problem from scratch, I found that looking at a similar example was a much better use of time. 
 
-4. Essays
+##### 4. Essays
 The use of AI for an essay seems like you’re not using your own voice. However, I had Google find synonyms for me.
 
-5. Final project
+##### 5. Final project
 Since the final project was such a large portion of our grade, I used ChatGPT because I felt the need to get the best answer in the shortest amount of time to meet the Milestone deadlines.
 
-6. Learning a concept / tutorial
+##### 6. Learning a concept / tutorial
 I found myself using YouTube or other online resources, such as W3Schools, to learn concepts.
 
-7. Answering a question in class or in Discord
+##### 7. Answering a question in class or in Discord
 I did not need to use any AI to answer a question in class or in Discord, as I already knew the answer beforehand.
 
-8. Asking or answering a smart-question
+##### 8. Asking or answering a smart-question
 Similar answer as above. I did not find any reason to ask an AI for asking or answering a smart-question.
 
-9. Coding example e.g. “give an example of using Underscore .pluck”
+##### 9. Coding example e.g. “give an example of using Underscore .pluck”
 ChatGPT was great at giving me coding examples. If I had a question about any part of my code, it would provide me with a solution and a useful example as well.
 
-10. Explaining code
+##### 10. Explaining code
 I did not have any situations where I needed to explain code, so I did not use AI.
 
-11. Writing code
+##### 11. Writing code
 There were a few times when I did not know how to even start the problem. I had ChatGPT help me understand the code then.
 
-12. Documenting code
+##### 12. Documenting code
 No AI was used for any documentation. However, I did write down some concepts on Google Docs that I thought were needed for later reference.
 
-13. Quality assurance
+##### 13. Quality assurance
 There were some instances where the code just wasn’t cooperating with me, so I asked ChatGPT or GitHub Copilot. It was very useful in explaining why it wasn’t working.
 
-14. Other uses in ICS 314 not listed
+##### 14. Other uses in ICS 314 not listed
 All uses were listed.
 
 ## III. Impact on Learning and Understanding:
