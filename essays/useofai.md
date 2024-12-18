@@ -11,7 +11,7 @@ labels:
   - Education
 ---
 
-<img width = "1000px" class="rounded fixed pe-4" src="../img/aigraphic.png">
+<img width = "500px" class="rounded fixed pe-4" src="../img/aigraphic.png">
 
 ## I. Introduction
 Without a doubt, Artificial Intelligence (AI) has changed the way we interact with technology. Whether it be ChatGPT, Gemini, Meta, Perplexity, or even NotebookLM, we now have access to a variety of tools for our curiosity.
