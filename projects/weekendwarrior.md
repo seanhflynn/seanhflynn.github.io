@@ -13,7 +13,7 @@ labels:
 summary: "Final Project for ICS314 Software Engineering"
 ---
 
-<img src="images/WWuserhome.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
+<img src="img/WWuserhome.png" style="box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); border-radius: 4px;">
 
 ## Overview
 Many UH Manoa students and locals have a hard time finding people with similar interests to join them in outdoor activities and hobbies. Whether it’s hiking, beach outings, surfing, or just hanging out, it’s not always easy to find partners or groups that align with specific plans or schedules.
