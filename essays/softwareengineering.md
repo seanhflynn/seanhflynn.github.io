@@ -4,7 +4,7 @@ type: essay
 title: "Reflecting on Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-19
-published: false
+published: true
 labels:
   - Software Engineering
   - Agile Project Management
@@ -12,22 +12,25 @@ labels:
   - Design Patterns
 ---
 
-<img width = "500px" class="rounded fixed pe-4" src="../img/aigraphic.png">
+<img width = "500px" class="rounded fixed pe-4" src="../img/softwareengineering.jpg">
 
-# Reflecting on Software Engineering
-As this class ends, I’ve been reflecting on the broader insights I’ve gained about software engineering—insights that go far beyond building web applications. While developing skills in web technologies was a key focus, the foundational principles of software engineering have had a deeper and more enduring impact. In this essay, I will examine three critical topics: Agile Project Management, Design Patterns, and Ethics in Software Engineering. These concepts reveal how software engineering practices can be applied across diverse contexts, not just web development.
+# Reflections on Software Engineering
+As this course wraps up, I have reflected on what I’ve learned about software engineering. While we focused on building web applications, the real value of this class lies in understanding the core principles that apply to all kinds of software. In this essay, I’ll discuss three significant topics: Agile Project Management, Design Patterns, and Ethics in Software Engineering. These concepts go beyond web development and are useful in many other types of projects.
 
 ## Agile Project Management
-Agile Project Management is a flexible, iterative approach that emphasizes collaboration and adaptability. One specific framework we used in class is Issue Driven Project Management (IDPM), which involves dividing a project into manageable tasks or “issues” that are tackled incrementally. This method ensures consistent progress, fosters team communication, and allows for adjustments as requirements evolve.
-Agile principles can be applied beyond web applications to any software project with changing requirements. For example, in embedded systems development, IDPM can help teams add features iteratively while maintaining a stable core system. By addressing individual issues, teams can prioritize essential functionality and adapt to unexpected challenges. Agile’s focus on feedback loops and collaboration ensures that projects align with goals and respond effectively to stakeholder needs, regardless of the domain.
+Agile Project Management is a way to handle projects by breaking them into smaller steps. It focuses on teamwork and the ability to adapt to changes. During this class, we used Issue Driven Project Management (IDPM). With IDPM, we divided our projects into smaller, manageable tasks called “issues.” Solving these issues one at a time helped us stay organized and made teamwork more effective.
+
+This approach isn’t just for web development. It can also be applied to other fields, such as robotics or game design. For example, if a team is creating a robot, they could use IDPM to focus on adding specific features, such as movement or voice control, one step at a time. By working on smaller tasks, the team can address problems quickly and adjust as needed. Agile methods are great for keeping the project on track and making sure everyone works efficiently toward their goals.
 
 ## Design Patterns
-Design patterns offer established solutions to recurring design challenges in software development. In this course, I applied patterns such as the Singleton and Observer. The Singleton pattern ensures a single instance of a class, which is especially useful for managing shared resources like database connections. The Observer pattern facilitates communication between objects, allowing multiple entities to respond to state changes in a centralized subject.
-These patterns have applications beyond web development. For instance, in game development, the Singleton pattern can manage game-wide settings, like audio or graphics configurations, to ensure consistent behavior. Similarly, the Observer pattern can power event systems, enabling game entities to dynamically respond to player actions or environmental changes. By incorporating design patterns, software engineers can build systems that are both scalable and maintainable across a variety of projects.
+Design Patterns are reusable solutions to common coding problems. In this class, I worked with patterns such as the Singleton and Observer. The Singleton pattern makes sure there is only one instance of something, like a shared database connection. The Observer pattern helps different parts of a program stay connected so that when one part changes, others can react automatically.
+
+These patterns are useful beyond web applications. For example, in video games, the Singleton pattern could manage settings like audio or graphics, ensuring consistency across the game. Meanwhile, the Observer pattern could be used to make non-player characters respond dynamically to the player’s actions. Design Patterns make it easier to write clear, maintainable, and adaptable code, no matter what kind of project you are working on.
 
 ## Ethics in Software Engineering
-Ethics in software engineering emphasizes the importance of fairness, accountability, and transparency. This course highlighted ethical considerations such as ensuring accessibility, safeguarding user privacy, and mitigating bias in algorithms.
-The relevance of ethics extends to fields like artificial intelligence and healthcare. In AI, engineers must carefully design datasets to prevent reinforcing societal inequalities. In healthcare technology, ethical considerations guide the creation of systems that prioritize patient confidentiality and safety. Emphasizing ethics ensures that technology serves society responsibly and helps maintain trust in the software we create.
+Ethics in software engineering is about making choices that are fair and responsible when creating software. This involves ensuring accessibility, protecting user privacy, and avoiding bias in algorithms.
+
+Ethics is especially important in areas like artificial intelligence (AI) and healthcare. For example, AI systems need to be designed with fairness in mind, avoiding favoritism toward specific groups of people. In healthcare, software must keep sensitive patient information secure and only allow access to authorized individuals. By considering ethics, we can build software that people trust and rely on.
 
 ## Conclusion
-This course has been an exploration of essential software engineering principles. Agile Project Management underscored the value of iterative collaboration, Design Patterns provided tools for creating adaptable and robust systems, and Ethics highlighted the moral responsibilities of software developers. These concepts transcend web development and will shape my approach to future projects. By embracing these principles, I feel equipped to contribute meaningfully to the ever-evolving field of software engineering.
+This course has provided me with a strong foundation in software engineering concepts that go far beyond building websites. Agile Project Management taught me how to approach projects in manageable steps while working effectively with a team. Design Patterns showed me how to create well-structured and reusable code. Ethics reminded me of the responsibility we have to create software that is safe and fair. These lessons will be valuable in any software project I take on in the future, and I’m excited to continue applying them in meaningful ways.
