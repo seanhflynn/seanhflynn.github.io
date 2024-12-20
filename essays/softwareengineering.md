@@ -14,7 +14,6 @@ labels:
 
 <img width = "500px" class="rounded fixed pe-4" src="../img/softwareengineering.jpg">
 
-# Reflections on Software Engineering
 As this course wraps up, I have reflected on what I’ve learned about software engineering. While we focused on building web applications, the real value of this class lies in understanding the core principles that apply to all kinds of software. In this essay, I’ll discuss three significant topics: Agile Project Management, Design Patterns, and Ethics in Software Engineering. These concepts go beyond web development and are useful in many other types of projects.
 
 ## Agile Project Management
