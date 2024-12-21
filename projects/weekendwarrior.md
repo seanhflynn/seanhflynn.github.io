@@ -30,3 +30,6 @@ Click <a href="https://docs.google.com/document/d/11WCz0wKi_EQwpVjwTQwwox7MkSHgH
 
 ## GitHub Organization 
 Click <a href="https://github.com/weekend-warrior-uhm">here</a> to view the Weekend Warrior project repository.
+
+## Vercel Deployment 
+Click <a href="https://weekend-warrior-code-sigma.vercel.app">here</a> to view Weekend Warrior deployed on Vercel.
