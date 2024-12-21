@@ -11,8 +11,9 @@ labels:
   - Cybersecurity
 summary: "Project for EE609 Computer and Network Security"
 ---
-
-<img class="img-fluid" width = "700px" src="../img/ghidra.png">
+<div style="text-align: center;">
+  <img class="img-fluid" width = "700px" src="../img/ghidra.png">
+</div>
 
 ## Introduction
 
